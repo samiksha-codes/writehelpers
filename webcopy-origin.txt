@@ -1,0 +1,472 @@
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\index.htm
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/about.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\about.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/achievement.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\achievement.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/css/animate.min.css
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/css/aos.css
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/css/bootstrap.min.css
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/css/jquery.fancybox.min.css
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/css/slick-theme.css
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/css/slick.css
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/css/style.css
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\css\style.css
+Content Type: text/css
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/css/themify-icons.css
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/fonts/themify.eot?
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/fonts/themify.eot?-fvbane
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/fonts/themify.ttf?-fvbane
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/fonts/themify.woff?-fvbane
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/1.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\1.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/2.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\2.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/3.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\3.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/about1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\about1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/banner_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\banner_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/banner_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\banner_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/banner_3.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\banner_3.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/banner_4.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\banner_4.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/bg.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/bg_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\bg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/blog1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/blog_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\blog_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/blog_3.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\blog_3.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/classroom_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\classroom_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/classroom_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\classroom_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/classroom_3.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\classroom_3.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/course_1.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\course_1.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/course_2.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\course_2.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/course_3.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\course_3.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/course_4.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\course_4.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/course_5.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\course_5.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/course_6.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\course_6.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/course_7.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\course_7.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/course_8.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\course_8.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/events_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\events_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/events_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\events_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/events_3.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\events_3.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/event_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\event_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/event_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\event_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/event_3.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\event_3.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/event_4.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\event_4.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/event_5.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\event_5.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/favicon.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/gallery_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\gallery_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/gallery_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\gallery_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/gallery_3.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\gallery_3.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/activity.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\activity.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/call.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\call.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/career.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\career.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/chevron-down.svg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/classroom.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\classroom.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/feminism.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\feminism.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/location.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\location.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/mail.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/online-class.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\online-class.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/online-course.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\online-course.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/promotion.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\promotion.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/reading.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\reading.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/teacher.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\teacher.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/icons/visitor.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\icons\visitor.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/inner-bg.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\inner-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/logo-footer.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\logo-footer.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/logo.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/online-course-bg.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\online-course-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/sports_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\sports_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/sports_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\sports_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/sports_3.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\sports_3.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/student_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\student_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/student_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\student_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/student_3.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\student_3.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/student_4.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\student_4.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/team_1.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\team_1.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/team_2.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\team_2.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/team_3.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\team_3.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/team_4.png
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\team_4.png
+Content Type: image/png
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/thumb_1.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\thumb_1.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/thumb_2.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\thumb_2.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/thumb_3.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\thumb_3.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/thumb_4.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\thumb_4.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/thumb_5.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\thumb_5.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/thumb_6.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\thumb_6.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/images/video-bg.jpg
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\images\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/aos.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\aos.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/bootstrap.min.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/jquery.fancybox.min.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\jquery.fancybox.min.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/jquery.min.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/page/about/about.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\page\about\about.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/page/course/course.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\page\course\course.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/page/home/home.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\page\home\home.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/page/result/result.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\page\result\result.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/popper.min.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/script.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/assets/js/slick.min.js
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\assets\js\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/blog-detail.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\blog-detail.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/blog.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\blog.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/career.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\career.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/contact.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\contact.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/course.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\course.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/faculties.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\faculties.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/gallery.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\gallery.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/index.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\index.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/result.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\result.html
+Content Type: text/html
+
+Uri: https://einfosoft.com/flexweb_template/edusquad_theme/edusquad-preview/student.html
+File Name: C:\Writers\einfosoft.com\flexweb_template\edusquad_theme\edusquad-preview\student.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,800&display=swap
+File Name: C:\Writers\einfosoft.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Writers\einfosoft.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Writers\einfosoft.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Writers\einfosoft.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Writers\einfosoft.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Writers\einfosoft.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Writers\einfosoft.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Writers\einfosoft.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Writers\einfosoft.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Writers\einfosoft.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
